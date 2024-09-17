@@ -1,0 +1,17 @@
+:host {
+    display: block;
+    height: 100%;
+    overflow: auto;
+}
+
+.status{
+  width: 100px;
+  height: 30px;
+  background-color: #EEE;
+  border: 1px solid #666;
+  border-radius: 3px;
+  padding: 3px;
+  margin-left: 10px;
+  font-size: 12px;
+
+}
